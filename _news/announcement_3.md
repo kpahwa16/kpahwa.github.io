@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+1 research paper accepted at EMNLP 2023: FACTIFY3M: A benchmark for multimodal fact verification with explainability through 5W Question-Answering :sparkles: :smile:
