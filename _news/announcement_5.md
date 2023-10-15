@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Neural Architecture of Speech accepted for Oral Presentation at ICASSP 2023 :sparkles: :smile:
+Research Paper "Neural Architecture of Speech" accepted for Oral Presentation at ICASSP 2023 :sparkles: :smile:
