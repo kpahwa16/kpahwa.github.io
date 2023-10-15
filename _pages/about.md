@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic2.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Duncan Hall, 3014r</p>
+    <p>6100 Main Street</p>
+    <p>Houston, TX 77005</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
