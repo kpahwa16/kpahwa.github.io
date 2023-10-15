@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: || कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः ||
 
 profile:
   align: right
