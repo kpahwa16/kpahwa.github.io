@@ -18,6 +18,14 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I’m Khushbu Pahwa, a Ph.D. student from the Department of Computer Science at Rice University, advised by Dr. Xia “Ben” Hu and Dr. Vladimir Braverman. My research interests include efficient and trustworthy machine learning. I am a strong proponent of the belief that medicine / healthcare can drive innovation in AI, and AI can bring about a revolution in healthcare. My motivation is to drive innovation in healthcare through cutting edge AI by developing robust theoretically grounded algorithms that can be translated to other fields of science as well. 
+
+Before starting my Ph.D. at RICE, I graduated with a Masters in Electrical & Computer Engineering from University of California, Los Angeles. I was fortunate to work as Graduate Research Fellowship with Dr. Abeer Alwan at UCLA Speech Processing & Auditory Perception Laboratory where I worked on exploring adversarial debiasing techniques for depression detection from speech while preserving speaker identity. I have always being intrigued by how the abstract representations are coded in neural activity elicited during human perception. Thus, I have also spent time in understanding the computational principles underlying visual and
+language comprehension abilities of humans with the aim of utilizing this knowledge to develop robust and trustworthy AI models. I got an opportunity to answer some of these research questions in my collaboration with Dr. Manish Gupta (Microsoft R&D India) and Dr. Bapi Raju (IIIT Hyderabad). At UCLA, I also engaged in several challenging research endeavors where I led the research project on fast and learnable measurement-conditioned undersampled MR image reconstruction using Diffusion  models with Dr. Dan Ruan at the David Geffen School of Medicine. Driven by my passion for adversarial machine learning, I worked with Dr. Nader Sehatbaksh on comprehensively evaluating the adversarial robustness of tiny ML models; and with Dr. Cho-Jui Hsieh on developing computationally efficient gradient based white-box adversarial attack against text transformers.
+
+Previously, I received my bachelor’s degree in Delhi Technological University, where I was awarded the Vice Chancellor Gold Medal for academic and research excellence.
+
+Contact me at: kp66 [at] rice [dot] edu.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
