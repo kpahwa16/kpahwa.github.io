@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-07 07:59:00-0400
+date: 2023-07-08 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-1 research paper accepted at EMNLP 2023: FACTIFY3M: A benchmark for multimodal fact verification with explainability through 5W Question-Answering :sparkles: :smile:
+Scaling Distributed Multi-task Reinforcement Learning with Experience Sharing accepted for poster presentation at KDD 2023 Federated Learning Workshop :sparkles: :smile:
