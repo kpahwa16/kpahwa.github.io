@@ -5,3 +5,23 @@ permalink: /News/
 ---
 
 {% include news.html %}
+
+{% if site.announcements.scrollable %}
+  <style>
+    /* Add custom CSS styles for the scrollable news section */
+    .scrollable-news {
+      max-height: 400px; /* Adjust the maximum height as needed */
+      overflow-y: scroll;
+    }
+  </style>
+
+  <script type="text/javascript">
+    const newsContainer = document.querySelector(".scrollable-news");
+
+    // Check if the news container exists
+    if (newsContainer) {
+      // Add custom CSS class to enable scrolling
+      newsContainer.classList.add("scrollable-news");
+    }
+  </script>
+{% endif %}
