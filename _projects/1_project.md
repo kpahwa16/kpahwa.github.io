@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Fast & Learnable Measurement-conditioned Diffusion Probabilistic Model for Under-sampled MRI Reconstruction
+title: "Under-sampled MRI reconstruction"
 description: 
 img: assets/img/project_1.png
 pdf: /assets/pdf/project_1.pdf  # Specify the path to your PDF file here
 importance: 1
-category: work
+category:
 related_publications: 
-image_caption: "Under-sampled MRI reconstruction using Diffusion Models"
+image_caption: "Under-sampled MRI reconstruction usinf Diffusion Model"
 next_page_title: "Fast & Learnable Measurement-conditioned Diffusion Probabilistic Model for Under-sampled MRI Reconstruction"
 ---
 
