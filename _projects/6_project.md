@@ -6,7 +6,7 @@ description:
 img: assets/img/project_6.png
 pdf: /assets/pdf/project_6.pdf  # Specify the path to your PDF file here
 importance: 1
-category:
+category: work
 related_publications: 
 image_caption: "EXPLORING THE USAGE OF SPEECH FOUNDATION MODELS FOR LOW-RESOURCE
 ASR"

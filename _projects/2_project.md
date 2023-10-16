@@ -7,7 +7,7 @@ pdf: /assets/pdf/project_2.pdf  # Specify the path to your PDF file here
 importance: 1
 category: work
 related_publications: 
-image_caption: ""
+image_caption: "Tiny ML has a security problem - An Adversarial Perturbation Prospective"
 next_page_title: "Tiny ML has a security problem - An Adversarial Perturbation Prospective"
 ---
 
