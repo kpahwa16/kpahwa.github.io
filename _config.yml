@@ -126,8 +126,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # permalink: /blog/:year/:title/
 
 # Pagination
-# pagination:
-#   enabled: true
+pagination:
+  enabled: true
 
 # related_blog_posts:
 #   enabled: true
