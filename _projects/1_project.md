@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/project1.png
+title: Fast & Learnable Measurement-conditioned Diffusion Probabilistic Model for Under-sampled MRI Reconstruction
+description: 
+img: assets/img/project_1.png
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
