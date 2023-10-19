@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >-
-  || "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते संगोऽस्त्वकर्मणि॥ ||
+  || "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते संगोऽस्त्वकर्मणि॥ || -  "To perform one's duties diligently and with dedication without attachment to the outcomes"
 
 profile:
   align: right
