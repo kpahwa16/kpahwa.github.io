@@ -8,7 +8,7 @@ pdf: /assets/pdf/project_7.pdf  # Specify the path to your PDF file here
 importance: 1
 category: work
 related_publications: 
-image_caption: "Computationally Efficient Gradient Based Whitebox Adver-
+image_caption: "Efficient Gradient Based Whitebox Adver-
 sarial Attack against Text Transformers"
 next_page_title: "Computationally Efficient Gradient Based Whitebox Adver-
 sarial Attack against Text Transformers"
