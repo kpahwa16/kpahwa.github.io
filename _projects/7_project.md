@@ -1,15 +1,13 @@
 ---
 layout: page
-title: "Efficient Gradient Based Whitebox Adver-
-sarial Attack against Text Transformers"
+title: "Efficient Gradient Based Whitebox Adversarial Attack against Text Transformers"
 description: 
 img: assets/img/project_7.png
 pdf: /assets/pdf/project_7.pdf  # Specify the path to your PDF file here
 importance: 1
 category: work
 related_publications: 
-image_caption: "Efficient Gradient Based Whitebox Adver-
-sarial Attack against Text Transformers"
+image_caption: "Efficient Gradient Based Whitebox Adversarial Attack against Text Transformers"
 next_page_title: "Computationally Efficient Gradient Based Whitebox Adversarial Attack against Text Transformers"
 ---
 
