@@ -8,7 +8,7 @@ importance: 1
 category: work
 related_publications: 
 image_caption: "Efficient Gradient Based Whitebox Adversarial Attack against Text Transformers"
-next_page_title: "Computationally Efficient Gradient Based Whitebox Adversarial Attack against Text Transformers"
+next_page_title: "Computationally Efficient Gradient Based Whitebox Adversarial Attack against Text Transformers [ Click the image ]"
 ---
 
 <div class="row">
