@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Computationally Efficient Gradient Based Whitebox Adver-
+title: "Efficient Gradient Based Whitebox Adver-
 sarial Attack against Text Transformers"
 description: 
 img: assets/img/project_7.png
