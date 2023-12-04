@@ -10,8 +10,7 @@ category: work
 related_publications: 
 image_caption: "Efficient Gradient Based Whitebox Adver-
 sarial Attack against Text Transformers"
-next_page_title: "Computationally Efficient Gradient Based Whitebox Adver-
-sarial Attack against Text Transformers"
+next_page_title: "Computationally Efficient Gradient Based Whitebox Adversarial Attack against Text Transformers"
 ---
 
 <div class="row">
